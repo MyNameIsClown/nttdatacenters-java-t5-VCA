@@ -1,9 +1,18 @@
 package nttdata.javat5.business;
 
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.Map;
 import java.util.TreeMap;
 
+import org.apache.poi.hssf.usermodel.HSSFWorkbook;
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -19,11 +28,18 @@ public class ManagmentServiceImpl implements ManagmentServiceI{
 	/** simulacion de una base de datos que almacena a los empleados */
 	private Map<Integer, Employee> employees;
 	
+	/** File */
+	private final File file = new File("./Files/employees.xls");
 	/**
 	 * Constructor
 	 */
 	public ManagmentServiceImpl() {
 		employees= new TreeMap<>();
+		try {
+			file.createNewFile();
+		} catch (IOException e) {
+			LOG.error(e.toString());
+		}
 	}
 	
 	@Override
@@ -52,7 +68,34 @@ public class ManagmentServiceImpl implements ManagmentServiceI{
 		Integer[] idArray = employees.keySet().toArray(new Integer[0]);
 		return Arrays.toString(idArray);
 	}
-
+	/**
+	 * Este metodo vuelca la informacion en un archivo excel
+	 */
+	public void exportXLS() {
+		int count = 0;
+		Collection<Employee> employeesTemp = employees.values();
+		try (Workbook wb = new HSSFWorkbook()) {
+			Sheet sh = wb.createSheet("Hoja_01");
+			for(Employee e: employeesTemp) {
+				Row r = sh.createRow(count);
+				//Se almacena el id del empleado e
+				Cell cId = r.createCell(0);
+				cId.setCellValue(e.getID());
+				//Se almacena el nombre del empleado e
+				Cell cName = r.createCell(1);
+				cName.setCellValue(e.getName());
+				//Se almacena la categoria del empleado e
+				Cell cCategory = r.createCell(2);
+				cCategory.setCellValue(e.getCategory());
+				//Se incrementa la fila
+				count++;
+			}
+			FileOutputStream fos = new FileOutputStream(file);
+			wb.write(fos);
+		} catch (IOException e) {
+			LOG.error(e.toString());
+		}
+	}
 	@Override
 	public String showDetails(Integer id) {
 		Employee employee = employees.get(id);

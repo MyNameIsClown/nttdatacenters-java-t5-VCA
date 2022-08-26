@@ -7,7 +7,7 @@ import nttdata.javat5.business.ManagmentServiceImpl;
  * @author Victor Carrasco
  *
  */
-public class T2MainVCA {
+public class T5MainVCA {
 	/**
 	 * Main
 	 * @param args
@@ -31,6 +31,7 @@ public class T2MainVCA {
 		System.out.println(ms.showAll());
 		System.out.println(ms.showDetails(4));
 		System.out.println("Numero de empleado registrados: " + ms.count());
+		ms.exportXLS();
 	}
 
 }

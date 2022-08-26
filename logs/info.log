@@ -23,3 +23,78 @@
 26 ago 2022;16:10:31 - nttdata.javat5.business.ManagmentServiceImpl.register 37 - Registrando al empleado con id: 11
 26 ago 2022;16:10:31 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 45 - Obteniendo el ultimo ID
 26 ago 2022;16:10:31 - nttdata.javat5.business.ManagmentServiceImpl.register 37 - Registrando al empleado con id: 12
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.register 48 - Registrando al primer empleado
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 1
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 2
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 3
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 4
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 5
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 6
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 7
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 8
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 9
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 10
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 11
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:21:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 12
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.register 48 - Registrando al primer empleado
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 1
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 2
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 3
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 4
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 5
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 6
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 7
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 8
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 9
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 10
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 11
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:22:14 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 12
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.register 48 - Registrando al primer empleado
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 1
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 2
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 3
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 4
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 5
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 6
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 7
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 8
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 9
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 10
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 11
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.getLastId 61 - Obteniendo el ultimo ID
+26 ago 2022;20:25:11 - nttdata.javat5.business.ManagmentServiceImpl.register 53 - Registrando al empleado con id: 12
